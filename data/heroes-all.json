@@ -1,0 +1,216 @@
+[
+	{
+		"name": "abaddon",
+		"alliances": ["undead", "knight"]
+	}, {
+		"name": "alchemist",
+		"alliances": ["goblin", "warlock"]
+	}, {
+		"name": "antimage",
+		"alliances": ["elf", "assassin"]
+	}, {
+		"name": "axe",
+		"alliances": ["brawny", "brutal"]
+	}, {
+		"name": "bat_rider",
+		"alliances": ["troll", "knight"]
+	}, {
+		"name": "beastmaster",
+		"alliances": ["brawny", "hunter"]
+	}, {
+		"name": "bounty_hunter",
+		"alliances": ["goblin", "assassin"]
+	}, {
+		"name": "chaos_knight",
+		"alliances": ["demon", "knight"]
+	}, {
+		"name": "clockwerk",
+		"alliances": ["goblin", "inventor"]
+	}, {
+		"name": "crystal_maiden",
+		"alliances": ["human", "mage"]
+	}, {
+		"name": "disruptor",
+		"alliances": ["brawny", "warlock"]
+	}, {
+		"name": "doom",
+		"alliances": ["demon", "brutal"]
+	}, {
+		"name": "dragon_knight",
+		"alliances": ["human", "dragon", "knight"]
+	}, {
+		"name": "drow_ranger",
+		"alliances": ["undead", "hunter"]
+	}, {
+		"name": "enchantress",
+		"alliances": ["savage", "druid", "healer"]
+	}, {
+		"name": "enigma",
+		"alliances": ["primordial", "shaman"]
+	}, {
+		"name": "furion",
+		"alliances": ["druid", "shaman"]
+	}, {
+		"name": "gyrocopter",
+		"alliances": ["dwarf", "inventor"]
+	}, {
+		"name": "juggernaut",
+		"alliances": ["brawny", "warrior"]
+	}, {
+		"name": "keeper_of_the_light",
+		"alliances": ["human", "mage"]
+	}, {
+		"name": "kunkka",
+		"alliances": ["human", "warrior"]
+	}, {
+		"name": "lich",
+		"alliances": ["undead", "mage"]
+	}, {
+		"name": "lina",
+		"alliances": ["human", "mage"]
+	}, {
+		"name": "lone_druid",
+		"alliances": ["savage", "druid"]
+	}, {
+		"name": "luna",
+		"alliances": ["elf", "knight"]
+	}, {
+		"name": "lycan",
+		"alliances": ["human", "savage", "hunter"]
+	}, {
+		"name": "medusa",
+		"alliances": ["naga", "hunter"]
+	}, {
+		"name": "morphling",
+		"alliances": ["primordial", "mage"]
+	}, {
+		"name": "necrophos",
+		"alliances": ["undead", "healer"]
+	}, {
+		"name": "ogre_magi",
+		"alliances": ["ogre", "mage", "brutal"]
+	}, {
+		"name": "omniknight",
+		"alliances": ["human", "knight", "healer"]
+	}, {
+		"name": "phantom_assassin",
+		"alliances": ["elf", "assassin"]
+	}, {
+		"name": "puck",
+		"alliances": ["elf", "dragon", "mage"]
+	}, {
+		"name": "queen_of_pain",
+		"alliances": ["demon", "assassin"]
+	}, {
+		"name": "razor",
+		"alliances": ["primordial", "mage"]
+	}, {
+		"name": "sand_king",
+		"alliances": ["savage", "insect"]
+	}, {
+		"name": "shadow_fiend",
+		"alliances": ["demon", "warlock"]
+	}, {
+		"name": "shadow_shaman",
+		"alliances": ["troll", "shaman"]
+	}, {
+		"name": "slardar",
+		"alliances": ["naga", "warrior"]
+	}, {
+		"name": "slark",
+		"alliances": ["naga", "assassin"]
+	}, {
+		"name": "sniper",
+		"alliances": ["goblin", "dwarf", "hunter"]
+	}, {
+		"name": "techies",
+		"alliances": ["goblin", "inventor"]
+	}, {
+		"name": "templar_assassin",
+		"alliances": ["elf", "assassin"]
+	}, {
+		"name": "terrorblade",
+		"alliances": ["demon", "hunter"]
+	}, {
+		"name": "tidehunter",
+		"alliances": ["naga", "warrior"]
+	}, {
+		"name": "timbersaw",
+		"alliances": ["goblin", "inventor"]
+	}, {
+		"name": "tinker",
+		"alliances": ["goblin", "inventor"]
+	}, {
+		"name": "tiny",
+		"alliances": ["primordial", "warrior"]
+	}, {
+		"name": "treant_protector",
+		"alliances": ["druid", "brutal"]
+	}, {
+		"name": "troll_warlord",
+		"alliances": ["troll", "warrior"]
+	}, {
+		"name": "tusk",
+		"alliances": ["savage", "warrior"]
+	}, {
+		"name": "venomancer",
+		"alliances": ["savage", "warlock"]
+	}, {
+		"name": "viper",
+		"alliances": ["naga", "dragon"]
+	}, {
+		"name": "wind_ranger",
+		"alliances": ["elf", "hunter"]
+	}, {
+		"name": "witch_doctor",
+		"alliances": ["troll", "warlock"]
+	}, {
+		"name": "pudge",
+		"alliances": ["undead", "warrior"]
+	}, {
+		"name": "warlock",
+		"alliances": ["ogre", "warlock", "healer"]
+	}, {
+		"name": "bloodseeker",
+		"alliances": ["ogre", "dwarf"]
+	}, {
+		"name": "arc_warden",
+		"alliances": ["primordial", "shaman"]
+	}, {
+		"name": "mirana",
+		"alliances": ["elf", "hunter"]
+	}, {
+		"name": "faceless_void",
+		"alliances": ["primordial", "assassin"]
+	}, {
+		"name": "nyx_assassin",
+		"alliances": ["insect", "assassin"]
+	}, {
+		"name": "weaver",
+		"alliances": ["insect", "elf"]
+	}, {
+		"name": "broodmother",
+		"alliances": ["insect", "warlock"]
+	}, {
+		"name": "wisp",
+		"alliances": ["primordial", "druid"]
+	}, {
+		"name": "bristleback",
+		"alliances": ["brawny", "savage"]
+	}, {
+		"name": "sven",
+		"alliances": ["human", "naga", "knight"]
+	}, {
+		"name": "magnus",
+		"alliances": ["shaman", "brutal"]
+	}, {
+		"name": "dazzle",
+		"alliances": ["troll", "healer"]
+	}, {
+		"name": "shadow_demon",
+		"alliances": ["undead", "demon"]
+	}, {
+		"name": "life_stealer",
+		"alliances": ["undead", "brutal"]
+	}
+]

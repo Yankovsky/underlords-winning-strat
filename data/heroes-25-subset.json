@@ -1,0 +1,78 @@
+[
+	{
+		"name": "abaddon",
+		"alliances": ["undead", "knight"]
+	}, {
+		"name": "alchemist",
+		"alliances": ["goblin", "warlock"]
+	}, {
+		"name": "antimage",
+		"alliances": ["elf", "assassin"]
+	}, {
+		"name": "axe",
+		"alliances": ["brawny", "brutal"]
+	}, {
+		"name": "bat_rider",
+		"alliances": ["troll", "knight"]
+	}, {
+		"name": "beastmaster",
+		"alliances": ["brawny", "hunter"]
+	}, {
+		"name": "bounty_hunter",
+		"alliances": ["goblin", "assassin"]
+	}, {
+		"name": "chaos_knight",
+		"alliances": ["demon", "knight"]
+	}, {
+		"name": "clockwerk",
+		"alliances": ["goblin", "inventor"]
+	}, {
+		"name": "crystal_maiden",
+		"alliances": ["human", "mage"]
+	}, {
+		"name": "disruptor",
+		"alliances": ["brawny", "warlock"]
+	}, {
+		"name": "doom",
+		"alliances": ["demon", "brutal"]
+	}, {
+		"name": "dragon_knight",
+		"alliances": ["human", "dragon", "knight"]
+	}, {
+		"name": "drow_ranger",
+		"alliances": ["undead", "hunter"]
+	}, {
+		"name": "enchantress",
+		"alliances": ["savage", "druid", "healer"]
+	}, {
+		"name": "enigma",
+		"alliances": ["primordial", "shaman"]
+	}, {
+		"name": "furion",
+		"alliances": ["druid", "shaman"]
+	}, {
+		"name": "gyrocopter",
+		"alliances": ["dwarf", "inventor"]
+	}, {
+		"name": "juggernaut",
+		"alliances": ["brawny", "warrior"]
+	}, {
+		"name": "keeper_of_the_light",
+		"alliances": ["human", "mage"]
+	}, {
+		"name": "kunkka",
+		"alliances": ["human", "warrior"]
+	}, {
+		"name": "lich",
+		"alliances": ["undead", "mage"]
+	}, {
+		"name": "lina",
+		"alliances": ["human", "mage"]
+	}, {
+		"name": "lone_druid",
+		"alliances": ["savage", "druid"]
+	}, {
+		"name": "luna",
+		"alliances": ["elf", "knight"]
+	}
+]

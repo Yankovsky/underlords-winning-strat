@@ -1,0 +1,33 @@
+Здесь я пытался составить систему уравнений, чтобы применить линейную оптимизацию, но пока не получилось.
+
+a1 * abadon + a2 * alchemist + a3 * antimage + a4 * axe + a5 * bat_rider + a6 * beastmaster + a7 * bounty_hunter = 2 * alliance
+
+a1 + a2 + a3 + a4 + a5 + a6 + a7 = 4
+
+abadon = undead + knight
+alchemist = goblin + warlock
+antimage = elf + assassin
+axe = brawny + brutal
+bat_rider = troll + knight
+beastmaster = brawny + hunter
+bounty_hunter = goblin + assassin
+
+2 * undead = alliance
+2 * knight = alliance
+2 * goblin = alliance
+2 * warlock = alliance
+3 * elf = alliance
+3 * assassin = alliance
+2 * brawny = alliance
+2 * brutal = alliance
+2 * troll = alliance
+3 * hunter = alliance
+
+
+
+
+
+
+
+
+2 [['abaddon', 'alchemist', 'bat_rider', 'bounty_hunter'], ['abaddon', 'axe', 'bat_rider', 'beastmaster'], ['alchemist', 'axe', 'beastmaster', 'bounty_hunter']]

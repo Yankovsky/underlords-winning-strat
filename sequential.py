@@ -1,6 +1,9 @@
 from itertools import combinations
 import json
 import functools
+import time
+
+start = time.time()
 
 legion = {'human': 1}
 index = 0
@@ -17,7 +20,7 @@ def getHeroesByAlliances(memo, hero):
     return memo
 
 
-with open('alliances.json') as alliances_file:
+with open('data/alliances.json') as alliances_file:
     alliances = json.load(alliances_file)
 
 
@@ -29,16 +32,16 @@ with open('alliances.json') as alliances_file:
         return res
 
 
-    with open('heroes.json') as heroes_file:
+    with open('data/heroes-25-subset.json') as heroes_file:
         heroes = json.load(heroes_file)
 
         print('start')
         for newComb in combinations(heroes, 9):
             if index == 0:
-                print(index)
+                print('index:', index)
             index += 1
             if index % 100000 == 0:
-                print(index)
+                print('index:', index)
 
             heroesByAlliances = functools.reduce(getHeroesByAlliances, newComb, {})
 
@@ -56,4 +59,6 @@ with open('alliances.json') as alliances_file:
             elif newCount == bestCombCount:
                 results.append(heroesNames)
 
-print(bestCombCount, results)
+end = time.time()
+print('time:', end - start)
+print('best combinations:', bestCombCount, results)
